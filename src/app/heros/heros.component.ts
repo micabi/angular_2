@@ -9,8 +9,8 @@ import {Hero} from '../hero';
 export class HerosComponent implements OnInit {
   hero: Hero = {
     id: 1,
-    name: 'ãƒ‘ã‚ºãƒ¼'
-  }
+    name: 'パズー'
+  };
   constructor() { }
 
   ngOnInit() {
